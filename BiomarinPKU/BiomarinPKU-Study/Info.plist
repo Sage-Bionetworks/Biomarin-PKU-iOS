@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>pkYOU</string>
+	<string>pkYOU Study</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -44,7 +44,7 @@
 	<key>NSMicrophoneUsageDescription</key>
 	<string>Required for certain assessments.</string>
 	<key>NSMotionUsageDescription</key>
-	<string>pkYou would like to access your phone's motion sensors to help gather data during activities.</string>
+	<string>pkYou would like to access your phone&apos;s motion sensors to help gather data during activities.</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>lato_black.ttf</string>
